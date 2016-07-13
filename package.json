@@ -1,0 +1,32 @@
+{
+	"name": "intcss",
+	"version": "1.0.0",
+	"description": "Our way to PostCSS our styles",
+	"keywords": [
+		"postcss",
+		"css",
+		"postcss-plugin",
+		"samson-int"
+	],
+	"dependencies": {
+		"autoprefixer": "^6.1.0",
+		"postcss": "^5.0.11",
+		"postcss-advanced-variables": "^1.2.2",
+		"postcss-assets": "^4.1.0",
+		"postcss-axis": "^0.1.1",
+		"postcss-calc": "~5.0.0",
+		"postcss-color-function": "^2.0.0",
+		"postcss-color-rgba-fallback": "^2.0.0",
+		"postcss-conditionals": "~1.3.1",
+		"postcss-data-packer": "^1.2.1",
+		"postcss-extend": "~0.4.3",
+		"postcss-import": "~7.0.0",
+		"postcss-mixins": "^3.0.2",
+		"postcss-nested": "~0.3.2",
+		"postcss-property-lookup": "^1.2.1",
+		"postcss-strip-units": "^1.0.1",
+		"postcss-svg": "^1.0.5",
+		"postcss-svg-fallback": "^1.2.3",
+		"postcss-url": "git://github.com/Ser-Gen/postcss-url.git"
+	}
+}
