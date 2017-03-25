@@ -27,6 +27,6 @@
 		"postcss-strip-units": "^1.0.1",
 		"postcss-svg": "^1.0.5",
 		"postcss-svg-fallback": "^1.2.3",
-		"postcss-url": "git://github.com/Ser-Gen/postcss-url.git"
+		"postcss-url": "git://github.com/verstak-int/postcss-url.git"
 	}
 }
